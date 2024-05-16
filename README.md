@@ -16,7 +16,7 @@
 ## Installation
 
     •    Open terminal in your system.
-    •    Run the git clone command.
+    •    Run the git clone command i.e git clone https://github.com/Ramancb/PrashantAdvaitAssignment.git.
     
     Your project is ready to run
 
